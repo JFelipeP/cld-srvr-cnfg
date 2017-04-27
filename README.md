@@ -1,2 +1,2 @@
 # Spring Cloud
-Remote configuration form Microservices with Spring Cloud
+Remote configuration for Microservices with Spring Cloud
